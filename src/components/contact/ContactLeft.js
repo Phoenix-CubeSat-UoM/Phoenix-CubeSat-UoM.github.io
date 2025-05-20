@@ -1,5 +1,5 @@
-import React from 'react'
-import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
+import React from "react";
+import { FaFacebookF, FaGithub, FaLinkedinIn } from "react-icons/fa";
 import { contactImg } from "../../assets/index";
 
 const ContactLeft = () => {
@@ -12,36 +12,45 @@ const ContactLeft = () => {
       />
       <div className="flex flex-col gap-4">
         <h3 className="text-3xl font-bold text-white">PHEONIX</h3>
-        <p className="text-lg font-normal text-gray-400">
-          PHEONIX CUBE SAT
-        </p>
         <p className="text-base text-gray-400 tracking-wide">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis
-          ipsam autem cumque, accusantium dicta odio.
+          Be a part of the University of Moratuwa’s bold journey to space with the SEDS Mora and Electronics Club. From high-altitude balloons to CubeSat development.this is your launchpad to innovation
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+968 97859628</span>
-        </p>
-        <p className="text-base text-gray-400 flex items-center gap-2">
-          Email: <span className="text-lightText">noor.jsdivs@gmail.com</span>
+          Email:{" "}
+          <span className="text-lightText">phoenix.cubesat.uom@gmail.com</span>
         </p>
       </div>
       <div className="flex flex-col gap-4">
         <h2 className="text-base uppercase font-titleFont mb-4">Find us in </h2>
         <div className="flex gap-4">
-          <span className="bannerIcon">
+          <a
+            href="https://www.facebook.com/SparkUoM/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bannerIcon"
+          >
             <FaFacebookF />
-          </span>
-          <span className="bannerIcon">
-            <FaTwitter />
-          </span>
-          <span className="bannerIcon">
+          </a>
+          <a
+            href="https://github.com/Phoenix-CubeSat-UoM/Phoenix-CubeSat-UoM.github.io.git"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bannerIcon"
+          >
+            <FaGithub />
+          </a>
+          <a
+            href="https://lk.linkedin.com/in/entc-spark-949512333"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bannerIcon"
+          >
             <FaLinkedinIn />
-          </span>
+          </a>
         </div>
       </div>
     </div>
   );
-}
+};
 
-export default ContactLeft
+export default ContactLeft;
