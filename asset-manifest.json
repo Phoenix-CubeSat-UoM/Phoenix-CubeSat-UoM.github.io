@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Phoenix-CubeSat-UoM.github.io/static/css/main.c09d11dd.css",
+    "main.js": "/Phoenix-CubeSat-UoM.github.io/static/js/main.a2f84417.js",
+    "static/media/bannerImg.png": "/Phoenix-CubeSat-UoM.github.io/static/media/bannerImg.da01e38b03fcc96ee72f.png",
+    "static/media/contactImg.png": "/Phoenix-CubeSat-UoM.github.io/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/Phoenix-CubeSat-UoM.github.io/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectThree.jpeg": "/Phoenix-CubeSat-UoM.github.io/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/Phoenix-CubeSat-UoM.github.io/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/Phoenix-CubeSat-UoM.github.io/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "index.html": "/Phoenix-CubeSat-UoM.github.io/index.html",
+    "main.c09d11dd.css.map": "/Phoenix-CubeSat-UoM.github.io/static/css/main.c09d11dd.css.map",
+    "main.a2f84417.js.map": "/Phoenix-CubeSat-UoM.github.io/static/js/main.a2f84417.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c09d11dd.css",
+    "static/js/main.a2f84417.js"
+  ]
+}
