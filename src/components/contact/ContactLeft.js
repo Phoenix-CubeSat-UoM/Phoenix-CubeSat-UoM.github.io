@@ -11,7 +11,7 @@ const ContactLeft = () => {
         alt="contactImg"
       />
       <div className="flex flex-col gap-4">
-        <h3 className="text-3xl font-bold text-white">PHEONIX</h3>
+        <h3 className="text-3xl font-bold text-white">PHOENIX</h3>
         <p className="text-base text-gray-400 tracking-wide">
           Be a part of the University of Moratuwa’s bold journey to space with the SEDS Mora and Electronics Club. From high-altitude balloons to CubeSat development.this is your launchpad to innovation
         </p>
