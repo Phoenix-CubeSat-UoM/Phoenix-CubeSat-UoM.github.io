@@ -7,6 +7,7 @@ export const featuresData = [
     icon: <FaBatteryFull />,
     title: "Power SubSystem",
     des: "Provides power to all systems using high density, low-temperature batteries optionally solar recharged for reliable operation down to -60°C.",
+    link: "https://github.com/Phoenix-CubeSat-UoM/Power-SubSystem",
   },
   {
     id: 2,

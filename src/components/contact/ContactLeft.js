@@ -11,13 +11,21 @@ const ContactLeft = () => {
         alt="contactImg"
       />
       <div className="flex flex-col gap-4">
-        <h3 className="text-3xl font-bold text-white">PHOENIX</h3>
+        <h3 className="text-3xl font-bold text-white">Team Phoenix</h3>
         <p className="text-base text-gray-400 tracking-wide">
           Be a part of the University of Moratuwa’s bold journey to space with the SEDS Mora and Electronics Club. From high-altitude balloons to CubeSat development.this is your launchpad to innovation
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Email:{" "}
           <span className="text-lightText">phoenix.cubesat.uom@gmail.com</span>
+        </p>
+        <p className="text-base text-gray-400 flex items-center gap-2">
+          SEDS UoM:{" "}
+          <span className="text-lightText">sedsmora.org</span>
+        </p>
+        <p className="text-base text-gray-400 flex items-center gap-2">
+          Spark UoM:{" "}
+          <span className="text-lightText">ent.uom.lk/spark</span>
         </p>
       </div>
       <div className="flex flex-col gap-4">
