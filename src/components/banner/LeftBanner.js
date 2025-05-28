@@ -44,7 +44,7 @@ const LeftBanner = () => {
 
       <div className="flex flex-col items-center ">
         <p className="text-center text-lg ">
-          Join with PHOENIX to shape the world
+          Join with TEAM PHOENIX to shape the world
         </p>
         <a
           href="https://forms.gle/wFWKefrnEqvUogbP7"
