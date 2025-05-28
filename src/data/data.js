@@ -11,14 +11,14 @@ import {
 export const featuresData = [
   {
     id: 1,
-    icon: <FaSatelliteDish />, // Attitude Control – orientation-focused icon
+    icon: <FaBroadcastTower />, // Attitude Control – orientation-focused icon
     title: "Attitude Determination and Control Subsystem",
     des: "Controls HAB altitude, measures outside parameters from sensors and record them for the mission success.",
     link: "https://github.com/Phoenix-CubeSat-UoM/Altitude-Determination-and-Control-Subsystem",
   },
   {
     id: 2,
-    icon: <FaBroadcastTower />, // Communication – radio/signal-focused
+    icon: <FaSatelliteDish />, // Communication – radio/signal-focused
     title: "Communication Subsystem",
     des: "Enables data transmission and tracking using onboard GPS, Radiosonde, and RF transmitters",
     link: "https://github.com/Phoenix-CubeSat-UoM/Communication-Subsystem",
