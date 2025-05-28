@@ -40,7 +40,7 @@ const ContactLeft = () => {
             <FaFacebookF />
           </a>
           <a
-            href="https://github.com/Phoenix-CubeSat-UoM/Phoenix-CubeSat-UoM.github.io.git"
+            href="https://github.com/Phoenix-CubeSat-UoM"
             target="_blank"
             rel="noopener noreferrer"
             className="bannerIcon"
